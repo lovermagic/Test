@@ -4,3 +4,6 @@ Seal_Out_Flg	char	no	1	     	     	yes	no	yes	SQL_Latin1_General_CP437_CI_AI
 Seal_Out_Date	datetime	no	8	     	     	yes	(n/a)	(n/a)	NULL
 Seal_NumberAsc	numeric	no	9	12   	0    	yes	(n/a)	(n/a)	NULL
 LastUpdateUser	varchar	no	140	     	     	yes	no	yes	SQL_Latin1_General_CP437_CI_AI
+
+
+add a line
